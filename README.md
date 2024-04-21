@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qKitNp
-- 👀 I’m interested in Making and Breaking stuff.
+- 👀 I’m interested in a lot of things.
 - 🌱 I’m currently learning Python, flutter, and philosophy.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pranjal19@pm.me
