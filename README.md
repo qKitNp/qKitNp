@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, flutter, ai and philosophy.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pranjal19@pm.me
-- [curiousabout.me](curiousabout.me)
+- [curiousabout.me](https://www.curiousabout.me)
 
 <!---
 qKitNp/qKitNp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
