@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @qKitNp
-- 👀 I’m interested in a lot of things.
-- 🌱 I’m currently learning python, flutter, ai and philosophy.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me pranjal19@pm.me
-- [curiousabout.me](https://www.curiousabout.me)
+# 👋 Hello, curious minds!
 
-<!---
-qKitNp/qKitNp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Pranjal, a creative technologist exploring the intersection of AI, design, and human experience.
+
+## 🔭 Currently working on
+- Building Lumbni AI - making AI agents easier to deploy and manage
+- Fine-tuning LLMs for specialized applications
+- My personal AI-powered portfolio at [curiousabout.me](https://www.curiousabout.me)
+
+## 🧠 Interests & Skills
+- AI/ML & Deep Learning
+- Product Design & UX
+- Full-stack Development (Python, JS, Django, React)
+- Philosophy & Chess ♟️
+
+## 🏆 Check out my work
+- Creator of [pyCage](https://bit.ly/InstallpyCage) - VSCode extension with 1900+ downloads
+- Hackathon winner (Smart India Hackathon, BIT Nishan, Genesis)
+
+## 📫 Let's connect
+- Email: pranjal19@pm.me
+- Portfolio: [curiousabout.me](https://www.curiousabout.me)
+
+_Always looking to collaborate on projects that blend technology with meaning_
