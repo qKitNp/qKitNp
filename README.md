@@ -3,7 +3,6 @@
 I'm Pranjal, a creative technologist exploring the intersection of AI, design, and human experience.
 
 ## 🔭 Currently working on
-- Building Lumbni AI - making AI agents easier to deploy and manage
 - Fine-tuning LLMs for specialized applications
 - My personal AI-powered portfolio at [curiousabout.me](https://www.curiousabout.me)
 
