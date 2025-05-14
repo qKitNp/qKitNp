@@ -14,7 +14,7 @@ I'm Pranjal, a creative technologist exploring the intersection of AI, design, a
 
 ## 🏆 Check out my work
 - Creator of [pyCage](https://bit.ly/InstallpyCage) - VSCode extension with 1900+ downloads
-- Hackathon winner (Smart India Hackathon, BIT Nishan, Genesis)
+- Hackathon winner (BIT Nishan, Genesis)
 
 ## 📫 Let's connect
 - Email: pranjal19@pm.me
