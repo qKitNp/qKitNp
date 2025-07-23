@@ -23,3 +23,8 @@ I'm Pranjal, a creative technologist exploring the intersection of AI, design, a
 - Portfolio: [curiousabout.me](https://www.curiousabout.me)
 
 _Always looking to collaborate on projects that blend technology with meaning_
+
+
+
+## Listening to
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0kjh0k74qvsfd6an5d5zv898e&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=0kjh0k74qvsfd6an5d5zv898e&redirect=true)
