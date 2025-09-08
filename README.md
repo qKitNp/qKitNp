@@ -16,7 +16,7 @@ I'm Pranjal, a creative technologist exploring the intersection of AI, design, a
 - Creator of [pyCage](https://bit.ly/InstallpyCage) - VSCode extension with 2000+ downloads
 - Hackathon winner (BIT Nishan, Genesis).
 - Creator of [ResumeDogs](https://resumedogs.netlify.app) - 1200+ Users.
-- Creator of [Sherlock MCP](https://smithery.ai/server/@qKitNp/sherlock_mcp) - 60 Monthly Active Users.
+- Creator of [Sherlock MCP](https://smithery.ai/server/@qKitNp/sherlock_mcp) - 500+ Monthly Active Users.
 
 ## 📫 Let's connect
 - Email: pranjal19@pm.me
