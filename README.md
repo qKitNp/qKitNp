@@ -10,7 +10,7 @@ I'm Pranjal, a creative technologist exploring the intersection of AI, design, a
 - AI/ML & Deep Learning
 - Product Design & UX
 - Full-stack Development (Python, JS, Django, React)
-- Philosophy & Chess ♟️
+- Philosophy & Chess & Sci-Fi
 
 ## 🏆 Check out my work
 - Creator of [pyCage](https://bit.ly/InstallpyCage) - VSCode extension with 2000+ downloads
