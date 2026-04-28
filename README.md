@@ -11,7 +11,7 @@ Based in Bengaluru. Linux since 16 and for life. Interested in why any of this m
 | | what | numbers |
 |---|---|---|
 | [ResumeDogs](https://resumedogs.com) | AI resume tailoring | 1,200+ users |
-| [pyCage](https://marketplace.visualstudio.com/items?itemName=PranjalKitN.py-cage) | VS Code extension for Python env management | 2,000+ downloads |
+| [pyCage](https://marketplace.visualstudio.com/items?itemName=PranjalKitN.py-cage) | VS Code extension for Python Library Installation | 2,000+ downloads |
 | [Sherlock MCP](https://smithery.ai/server/@qKitNp/sherlock_mcp) | OSINT via MCP | 500+ MAU |
 | [Lumbni](https://lumbni.tech) | LLM infra and API management | 500 users |
 
