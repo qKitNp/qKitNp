@@ -1,30 +1,30 @@
-# 👋 Hello, curious minds!
+# Pranjal
 
-I'm Pranjal, a creative technologist exploring the intersection of AI, design, and human experience.
+Building things at the intersection of LLM infrastructure and agents. Final-year CSE, interning as an Applied AI Engineer at [Zoven.ai](https://zoven.ai).
 
-## 🔭 Currently working on
-- Fine-tuning LLMs for specialized applications
-- My personal AI-powered portfolio at [curiousabout.me](https://www.curiousabout.me)
+Based in Bengaluru. Linux since 16 and for life. Interested in why any of this matters, someone told me I talk like Socrates(I talk like Plato with a hint of Camus though).
 
-## 🧠 Interests & Skills
-- AI/ML & Deep Learning
-- Product Design & UX
-- Full-stack Development (Python, JS, Django, React)
-- Philosophy & Chess & Sci-Fi
+---
 
-## 🏆 Check out my work
-- Creator of [pyCage](https://bit.ly/InstallpyCage) - VSCode extension with 2000+ downloads
-- Hackathon winner (BIT Nishan, Genesis).
-- Creator of [ResumeDogs](https://resumedogs.netlify.app) - 1200+ Users.
-- Creator of [Sherlock MCP](https://smithery.ai/server/@qKitNp/sherlock_mcp) - 500+ Monthly Active Users.
+## shipped
 
-## 📫 Let's connect
-- Email: pranjal19@pm.me
-- Portfolio: [curiousabout.me](https://www.curiousabout.me)
+| | what | numbers |
+|---|---|---|
+| [ResumeDogs](https://resumedogs.com) | AI resume tailoring | 1,200+ users |
+| [pyCage](https://bit.ly/InstallpyCage) | VS Code extension for Python env management | 2,000+ downloads |
+| [Sherlock MCP](https://smithery.ai/server/@qKitNp/sherlock_mcp) | OSINT via MCP | 500+ MAU |
+| [Lumbni](https://lumbni.com) | LLM infra and API management | 500 users |
 
-_Always looking to collaborate on projects that blend technology with meaning_
+---
 
+## stack
 
+Python, Go, TypeScript, Linux. Some Rust when I'm feeling optimistic.
 
-## Listening to
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0kjh0k74qvsfd6an5d5zv898e&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=0kjh0k74qvsfd6an5d5zv898e&redirect=true)
+Interested in agent architecture, agentic infra, and multi-tenant LLM systems.
+
+---
+
+## find me
+
+[pranjal19@pm.me](mailto:pranjal19@pm.me) &nbsp;·&nbsp; [curiousabout.me](https://curiousabout.me)
