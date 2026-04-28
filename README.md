@@ -1,4 +1,4 @@
-# [pranjal] (https://curiousabout.me/)
+# [pranjal](https://curiousabout.me/)
 
 Building things at the intersection of LLM infrastructure and agents. Final-year CSE, interning as an Applied AI Engineer at [Zoven.ai](https://zoven.ai).
 
