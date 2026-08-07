@@ -14,7 +14,7 @@ Based in Bengaluru. Linux since 16 and for life. Interested in why any of this m
 | [pyCage](https://marketplace.visualstudio.com/items?itemName=PranjalKitN.py-cage) | VS Code extension for Python Library Installation | 2,000+ downloads |
 | [Sherlock MCP](https://smithery.ai/server/@qKitNp/sherlock_mcp) | OSINT via MCP | 500+ MAU |
 | [Lumbni](https://lumbni.tech) | LLM infra and API management | 500 users |
-| [Grammar.lol](https://grammar.lol/) | Grammarly using ChatGPT or Supergrok | 50+ users
+| [Grammar.lol](https://grammar.lol/) | Grammarly using ChatGPT, Supergrok or Apple Intelligence | 50+ users
 
 ---
 
