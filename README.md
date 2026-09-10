@@ -14,8 +14,9 @@ Based in Bengaluru. Linux since 16 and for life. Interested in why any of this m
 | [pyCage](https://marketplace.visualstudio.com/items?itemName=PranjalKitN.py-cage) | VS Code extension for Python Library Installation | 2,000+ downloads |
 | [Sherlock MCP](https://smithery.ai/server/@qKitNp/sherlock_mcp) | OSINT via MCP | 500+ MAU |
 | [Lumbni](https://lumbni.tech) | LLM infra and API management | 500 users |
-| [Grammar.lol](https://grammar.lol/) | Grammarly using ChatGPT, Supergrok or Apple Intelligence | 50+ users
-| [Hacker Space](https://chromewebstore.google.com/detail/hacker-space/pmlajlgklmgabkhammfolkgkeghamjnn?utm_source=item-share-cb) | Hacker News summaries on every new tab | 20+ users
+| [TinyKnights.fun](https://tinkyknights.fun/) | MOBA Video Game on browser built in 15 hours | 200+ games |
+| [Grammar.lol](https://grammar.lol/) | Grammarly using ChatGPT, Supergrok or Apple Intelligence | 50+ users |
+| [Hacker Space](https://chromewebstore.google.com/detail/hacker-space/pmlajlgklmgabkhammfolkgkeghamjnn?utm_source=item-share-cb) | Hacker News summaries on every new tab | 20+ users |
 
 ---
 
