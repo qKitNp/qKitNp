@@ -8,7 +8,7 @@ Based in Bengaluru. Linux since 16 and for life. Interested in why any of this m
 
 ## shipped
 
-| | what | numbers |
+| | description | numbers |
 |---|---|---|
 | [ResumeDogs](https://resumedogs.com) | AI resume tailoring | 5000+ users |
 | [pyCage](https://marketplace.visualstudio.com/items?itemName=PranjalKitN.py-cage) | VS Code extension for Python Library Installation | 2,000+ downloads |
